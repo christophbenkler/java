@@ -1,4 +1,4 @@
-# ☕️ Java coding environment
+# ☕️ Java coding notebooks
 
 ### 🔗 View on:
 
